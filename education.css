@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 25px;
+}
+
+body {
+  background: #ababab; 
+  font-family: Verdana, sans-serif;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.button {
+  font-size: 25px;
+  border:40px;
+  outline: none;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background-color: darkgrey;
+  color: white;
+}
+
+.cover {
+  width: 400px;
+  height: 180px;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.box1{
+  display: grid;
+  border-radius: -5px;
+  margin: 30px;
+  margin-left: 170px;
+  width: 280px;
+  height: 600px;
+  margin-top: 20px;
+  box-shadow: -1px 0 10px #301a46;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  gap: 10px;
+  /*background-color: black;*/
+  gap: 50px;
+}
+.box2{
+  display: grid;
+  border-radius: -5px;
+  margin: 30px;
+  margin-left: 170px;
+  width: 280px;
+  height: 600px;
+  margin-top: 40px;
+  box-shadow: -1px 0 10px #301a46;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  gap: 50px;
+  /*background-color: black;*/
+
+}
+.box3{
+  display: grid;
+  border-radius: -5px;
+  margin: 30px;
+  margin-left: 170px;
+  width: 280px;
+  height: 600px;
+  margin-top: 40px;
+  box-shadow: -1px 0 10px #301a46;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  gap: 50px;
+  /*background-color: black;*/
+}
+.box4{
+  display: grid;
+  border-radius: -5px;
+  margin: 30px;
+  margin-left: 170px;
+  width: 280px;
+  height: 600px;
+  margin-top: 40px;
+  box-shadow: -1px 0 10px #301a46;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  gap: 50px;
+  /*background-color: black;*/
+}
+.box5{
+  display: grid;
+  border-radius: -5px;
+  margin: 30px;
+  margin-left: 170px;
+  width: 280px;
+  height: 600px;
+  margin-top: 40px;
+  box-shadow: -1px 0 10px #301a46;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  gap: 50px;
+  /*background-color: black;*/
+}
+.box6{
+  display: grid;
+  border-radius: -5px;
+  margin: 30px;
+  margin-left: 170px;
+  width: 280px;
+  height: 600px;
+  margin-top: 40px;
+  box-shadow: -1px 0 10px #301a46;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  gap: 50px;
+  /*background-color: black;*/
+}
